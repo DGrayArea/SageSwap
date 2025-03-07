@@ -14,7 +14,7 @@ const Footer = () => {
               className="flex items-center gap-2 font-bold text-xl mb-4"
             >
               <span className="text-primary">Ξ</span>
-              <span>SwapNFT</span>
+              <span>SageSwap</span>
             </Link>
             <p className="text-muted-foreground text-sm mb-4 max-w-xs">
               All-in-one platform for swapping, creating and trading tokens and
@@ -151,7 +151,7 @@ const Footer = () => {
 
         <div className="flex flex-col md:flex-row justify-between items-center mt-12 pt-8 border-t border-border">
           <p className="text-xs text-muted-foreground">
-            © {new Date().getFullYear()} SwapNFT. All rights reserved.
+            © {new Date().getFullYear()} SageSwap. All rights reserved.
           </p>
           <div className="flex gap-4 mt-4 md:mt-0">
             <Link
